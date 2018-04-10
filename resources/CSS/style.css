@@ -29,25 +29,24 @@ header {
     padding-right: 40px;
   }
 
-content {
-    display: flex;
-    align-content: center;
+.content {
     border: 1px solid black;
+    background-color: yellow;
   }
 
-column.large {
+.column.large {
     display: flex;
     width: 630px;
     border: 1px solid black;
 }
 
-column.medium {
+.column.medium {
   display: flex;
   width: 300px;
   border: 1px solid black;
 }
 
-column.small {
+.column small {
   display: flex;
   align-items: center;
   width: 240px;
