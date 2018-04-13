@@ -71,7 +71,7 @@ header nav {
 }
 
 .img-story-main_text {
-  background-image: url(d:/mike/projects/mytimes/resources/images/img-story-main.png);
+  background-image: url(../images/img-story-main.png);
   width: 630px;
   height: 300px;
   padding-left: 20px;
@@ -104,7 +104,7 @@ header nav {
   }
 
 .autumnpicheadline {
-  background-image: url(d:/mike/projects/mytimes/resources/images/img-story-2.png);
+  background-image: url(../images/img-story-2.png);
   height: 300px;
   margin-top: 27px;
   width: 300px;
@@ -117,7 +117,7 @@ header nav {
   }
 
 .camerapicheadline {
-  background-image: url(d:/mike/projects/mytimes/resources/images/img-story-3.png);
+  background-image: url(../images/img-story-3.png);
   height: 300px;
   width: 300px;
   float: right;
@@ -134,7 +134,7 @@ header nav {
 
 .catpicheadline {
   display: block;
-  background-image: url(d:/mike/projects/mytimes/resources/images/img-story-1.png);
+  background-image: url(../images/img-story-1.png);
   height: 300px;
   font-family: Georgia;
   font-weight: bold;
