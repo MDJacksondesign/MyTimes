@@ -174,7 +174,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: row;
+  flex-direction: column;;
   width: 100%;
   height: 200px;
   background-color: MediumAquamarine;
@@ -196,4 +196,8 @@ footer .title {
 footer nav {
   display: inline-block;
   padding-left: 30px;
+}
+
+.copyright {
+  padding-top: 20px;
 }
